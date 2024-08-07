@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+I'm currently working on a health and fitness app that enables users to track their health and various important aspects of life not forgeting their mental health
+The app is built on java with its implementation based on Json. 
+Reach me on ;
+Whatsapp : 0793693654
+Instagram: @Kaboromann
+x : @ Kaboro Ian
+Linkedln : Ian Kaboro
 <!--
 **Kaboromann/Kaboromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
